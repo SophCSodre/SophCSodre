@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophia Cruz Sodre based in São Paulo, Brazil
 - 👀 I’m interested in frontend Developement and UX/UI
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, MySQL and C#
 - 💞️ Currently starting leaning programin, be nice :D
 - 📫 How to reach me email: sophia.c.sodre@hotmail.com
